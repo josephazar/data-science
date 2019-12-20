@@ -1,2 +1,2 @@
 # data-science
-This repository contains some my data science projects 
+This repository contains some of my data science projects 
